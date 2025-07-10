@@ -39,7 +39,7 @@ Each folder corresponds to a book chapter and typically includes:
 2. **Open a terminal** in VS Code or your shell and navigate to a project folder:
 
    ```bash
-   cd Chapter1/Lost_Fortune
+   cd '.\Chapter One\Lost_Fortune\'
    ```
 
 3. **Compile** the source file:
@@ -51,8 +51,7 @@ Each folder corresponds to a book chapter and typically includes:
 4. **Run** the executable:
 
    ```bash
-   ./LostFortune       # macOS/Linux
-   .\LostFortune.exe   # Windows
+   .\LostFortune.exe
    ```
 
 Repeat for other source files in each chapter directory.
