@@ -25,7 +25,7 @@ Each folder corresponds to a book chapter and typically includes:
 | …               | Continuing through functions, classes, pointers, OOP, etc.     |
 | `FinalProject/` | Culminating game that ties together all concepts from the book |
 
-*Current Progress is only through Chapter 4*
+*Current Progress is only through Chapter 2*
 
 ---
 
@@ -36,10 +36,10 @@ Each folder corresponds to a book chapter and typically includes:
    * **Windows:** MinGW‑w64 (via MSYS2) or Visual Studio Build Tools
    * **macOS/Linux:** `g++` or `clang++` via your package manager
 
-2. **Open a terminal** in VS Code or your shell and navigate to a chapter folder:
+2. **Open a terminal** in VS Code or your shell and navigate to a project folder:
 
    ```bash
-   cd Chapter1
+   cd '.\Chapter One\Lost_Fortune\'
    ```
 
 3. **Compile** the source file:
@@ -51,8 +51,7 @@ Each folder corresponds to a book chapter and typically includes:
 4. **Run** the executable:
 
    ```bash
-   ./LostFortune       # macOS/Linux
-   .\LostFortune.exe   # Windows
+   .\LostFortune.exe
    ```
 
 Repeat for other source files in each chapter directory.
