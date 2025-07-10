@@ -25,7 +25,7 @@ Each folder corresponds to a book chapter and typically includes:
 | …               | Continuing through functions, classes, pointers, OOP, etc.     |
 | `FinalProject/` | Culminating game that ties together all concepts from the book |
 
-*Current Progress is only through Chapter 4*
+*Current Progress is only through Chapter 2*
 
 ---
 
