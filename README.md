@@ -36,10 +36,10 @@ Each folder corresponds to a book chapter and typically includes:
    * **Windows:** MinGW‑w64 (via MSYS2) or Visual Studio Build Tools
    * **macOS/Linux:** `g++` or `clang++` via your package manager
 
-2. **Open a terminal** in VS Code or your shell and navigate to a chapter folder:
+2. **Open a terminal** in VS Code or your shell and navigate to a project folder:
 
    ```bash
-   cd Chapter1
+   cd Chapter1/Lost_Fortune
    ```
 
 3. **Compile** the source file:
